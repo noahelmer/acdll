@@ -1,0 +1,13 @@
+﻿  dllmain.cpp
+  esp.cpp
+C:\Users\noahe\source\repos\ACDLL\ACDLL\geom.h(28,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'esp.cpp')
+  
+C:\Users\noahe\source\repos\ACDLL\ACDLL\geom.h(28,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'esp.cpp')
+  
+C:\Users\noahe\source\repos\ACDLL\ACDLL\geom.h(28,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'esp.cpp')
+  
+  Generating Code...
+  ACDLL.vcxproj -> C:\Users\noahe\source\repos\ACDLL\Debug\ACDLL.dll

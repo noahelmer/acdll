@@ -1,0 +1,6 @@
+﻿  constants.cpp
+C:\Users\noahe\source\repos\ACDLL\ACDLL\constants.cpp(7,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  dllmain.cpp
+C:\Users\noahe\source\repos\ACDLL\ACDLL\dllmain.cpp(52,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  genCode.cpp
+C:\Users\noahe\source\repos\ACDLL\ACDLL\genCode.cpp(9,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
